@@ -9,7 +9,7 @@ export default class Page2 extends React.Component {
 
           <Text
               style={styles.txt}>
-              Search
+              Search 111
           </Text>
 
 
